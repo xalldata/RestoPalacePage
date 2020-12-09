@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/RestoPalacePage/static/css/main.66a30ce9.chunk.css",
+    "main.css": "/RestoPalacePage/static/css/main.1b922885.chunk.css",
     "main.js": "/RestoPalacePage/static/js/main.5ebaad78.chunk.js",
     "main.js.map": "/RestoPalacePage/static/js/main.5ebaad78.chunk.js.map",
     "runtime-main.js": "/RestoPalacePage/static/js/runtime-main.c8045a47.js",
@@ -12,7 +12,7 @@
     "static/js/3.80e349e6.chunk.js.map": "/RestoPalacePage/static/js/3.80e349e6.chunk.js.map",
     "index.html": "/RestoPalacePage/index.html",
     "static/css/2.4920a1fe.chunk.css.map": "/RestoPalacePage/static/css/2.4920a1fe.chunk.css.map",
-    "static/css/main.66a30ce9.chunk.css.map": "/RestoPalacePage/static/css/main.66a30ce9.chunk.css.map",
+    "static/css/main.1b922885.chunk.css.map": "/RestoPalacePage/static/css/main.1b922885.chunk.css.map",
     "static/js/2.1ff3bc03.chunk.js.LICENSE.txt": "/RestoPalacePage/static/js/2.1ff3bc03.chunk.js.LICENSE.txt",
     "static/media/bread.d2ffe217.png": "/RestoPalacePage/static/media/bread.d2ffe217.png",
     "static/media/Header.css": "/RestoPalacePage/static/media/down-arrow.85e916c3.svg",
@@ -33,7 +33,7 @@
     "static/js/runtime-main.c8045a47.js",
     "static/css/2.4920a1fe.chunk.css",
     "static/js/2.1ff3bc03.chunk.js",
-    "static/css/main.66a30ce9.chunk.css",
+    "static/css/main.1b922885.chunk.css",
     "static/js/main.5ebaad78.chunk.js"
   ]
 }
