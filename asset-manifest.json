@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/RestoPalacePage/static/css/main.b046733c.chunk.css",
+    "main.js": "/RestoPalacePage/static/js/main.798b01cf.chunk.js",
+    "main.js.map": "/RestoPalacePage/static/js/main.798b01cf.chunk.js.map",
+    "runtime-main.js": "/RestoPalacePage/static/js/runtime-main.c8045a47.js",
+    "runtime-main.js.map": "/RestoPalacePage/static/js/runtime-main.c8045a47.js.map",
+    "static/css/2.4920a1fe.chunk.css": "/RestoPalacePage/static/css/2.4920a1fe.chunk.css",
+    "static/js/2.1ff3bc03.chunk.js": "/RestoPalacePage/static/js/2.1ff3bc03.chunk.js",
+    "static/js/2.1ff3bc03.chunk.js.map": "/RestoPalacePage/static/js/2.1ff3bc03.chunk.js.map",
+    "static/js/3.80e349e6.chunk.js": "/RestoPalacePage/static/js/3.80e349e6.chunk.js",
+    "static/js/3.80e349e6.chunk.js.map": "/RestoPalacePage/static/js/3.80e349e6.chunk.js.map",
+    "index.html": "/RestoPalacePage/index.html",
+    "static/css/2.4920a1fe.chunk.css.map": "/RestoPalacePage/static/css/2.4920a1fe.chunk.css.map",
+    "static/css/main.b046733c.chunk.css.map": "/RestoPalacePage/static/css/main.b046733c.chunk.css.map",
+    "static/js/2.1ff3bc03.chunk.js.LICENSE.txt": "/RestoPalacePage/static/js/2.1ff3bc03.chunk.js.LICENSE.txt",
+    "static/media/bread.d2ffe217.png": "/RestoPalacePage/static/media/bread.d2ffe217.png",
+    "static/media/Header.css": "/RestoPalacePage/static/media/down-arrow.85e916c3.svg",
+    "static/media/food1.71ae0143.jpg": "/RestoPalacePage/static/media/food1.71ae0143.jpg",
+    "static/media/food2.e5d36616.jpg": "/RestoPalacePage/static/media/food2.e5d36616.jpg",
+    "static/media/food3.567e052f.jpg": "/RestoPalacePage/static/media/food3.567e052f.jpg",
+    "static/media/hamburger.afb4f969.png": "/RestoPalacePage/static/media/hamburger.afb4f969.png",
+    "static/media/img1.50d10b03.png": "/RestoPalacePage/static/media/img1.50d10b03.png",
+    "static/media/img2.f84e90cf.png": "/RestoPalacePage/static/media/img2.f84e90cf.png",
+    "static/media/img3.bb05fba9.png": "/RestoPalacePage/static/media/img3.bb05fba9.png",
+    "static/media/img4.d38542ff.png": "/RestoPalacePage/static/media/img4.d38542ff.png",
+    "static/media/Interior.css": "/RestoPalacePage/static/media/port1-3.7594687a.jpg",
+    "static/media/port2-2.394dac13.jpg": "/RestoPalacePage/static/media/port2-2.394dac13.jpg",
+    "static/media/port5-1.90b2ee6d.jpg": "/RestoPalacePage/static/media/port5-1.90b2ee6d.jpg",
+    "static/media/port6-2.43f96cc4.jpg": "/RestoPalacePage/static/media/port6-2.43f96cc4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c8045a47.js",
+    "static/css/2.4920a1fe.chunk.css",
+    "static/js/2.1ff3bc03.chunk.js",
+    "static/css/main.b046733c.chunk.css",
+    "static/js/main.798b01cf.chunk.js"
+  ]
+}
