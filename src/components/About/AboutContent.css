@@ -1,0 +1,104 @@
+.bio-food-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.bio-food-content p {
+  font-size: 14px;
+  line-height: 24px;
+  color: #6f6f6f;
+}
+
+.bio-food-content h2 {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 23px;
+  letter-spacing: 1px;
+  color: #383838;
+}
+
+.price {
+  font-family: "Pinyon Script", cursive, sans-serif;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 2.5em;
+  color: #c89446;
+}
+
+.bio-food-content-img {
+  margin-bottom: 1rem;
+}
+
+.bio-food-content-text {
+  text-align: center;
+}
+
+@media screen and (min-width: 1218px) {
+  .bio-food-content-text {
+    text-align: unset;
+  }
+
+  .bio-food-content {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    width: 500px;
+    background-color: white;
+  }
+
+  .content-0 .bio-food-content-text,
+  .content-1 .bio-food-content-text {
+    margin-left: 32px;
+  }
+
+  .content-2 .bio-food-content-text,
+  .content-3 .bio-food-content-text {
+    margin-right: 32px;
+  }
+
+  .content-0 {
+    transform: translate(-65%, -100%);
+  }
+
+  .content-1 {
+    transform: translate(-65%, 100%);
+  }
+
+  .content-2,
+  .content-3 {
+    flex-direction: row-reverse;
+    text-align: right;
+  }
+
+  .content-2 {
+    transform: translate(65%, -100%);
+  }
+
+  .content-3 {
+    transform: translate(65%, 100%);
+  }
+
+  .bio-food-content-text {
+    flex: 2;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  .bio-food-content-text * {
+    margin-bottom: 5px;
+  }
+
+  .bio-food-content-img {
+    background-color: sienna;
+    flex: 1;
+  }
+
+  .bio-food-content-img img {
+    height: 100%;
+    width: 100%;
+  }
+}

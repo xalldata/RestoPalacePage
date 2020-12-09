@@ -1,0 +1,36 @@
+.img {
+  flex: 1;
+  height: 100%;
+  border-left: 1px solid #ffffff;
+  position: relative;
+}
+
+.white-hide {
+  position: absolute;
+  background-color: white;
+  height: 0px;
+  width: 100%;
+  border-left: 1px solid #000;
+
+  transition: height 0.3s;
+}
+
+.white-hide h5 {
+  font-size: 20px;
+  padding: 25px 0 0 25px;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+.white-hide h6 {
+  font-size: 25px;
+  padding: 0 0 0 25px;
+  font-weight: 400;
+  letter-spacing: 1px;
+  color: #fff;
+}
+
+.current h5,
+.current h6 {
+  color: black;
+}
